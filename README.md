@@ -26,6 +26,8 @@ The primary goal of this project is to analyze and monitor sales performance by 
 ### Conclusion
 - This project provides actionable insights into Amazon's sales data, helping businesses make strategic decisions based on real-time analytics.
 
+### Dashboard Preview
+![Amazon Sales Dashboard](dashboard_screenshot.png)
 
 
 
