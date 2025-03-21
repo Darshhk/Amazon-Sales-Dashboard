@@ -5,11 +5,11 @@ This Amazon Sales Dashboard is designed to help analyze and track sales trends, 
 
 ### Purpose & Objectives
 The primary goal of this project is to analyze and monitor sales performance by visualizing key business metrics. The dashboard helps in:
-Understanding sales trends over time
-Identifying top-selling products and categories
-Analyzing customer purchase behavior
-Tracking revenue and order performance
-Gaining insights for business strategy optimization
+**Understanding sales trends over time**
+**Identifying top-selling products and categories**
+**Analyzing customer purchase behavior**
+**Tracking revenue and order performance**
+**Gaining insights for business strategy optimization**
 
 ### Tools & Technologies Used
 Power BI (Data Visualization, DAX, Power Query)
