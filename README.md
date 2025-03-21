@@ -1,3 +1,5 @@
+#Amazon Sales Dashboard
+
 ###Project Overview
 This Amazon Sales Dashboard is designed to help analyze and track sales trends, customer insights, and revenue performance. The dashboard provides interactive visualizations that allow businesses to make data-driven decisions and optimize their sales strategy.
 
